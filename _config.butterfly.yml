@@ -5,8 +5,7 @@
 # Site
 title: Phantasia's Blog
 subtitle: 'March'
-description: ''
-keywords:
+description: '归咎于寂寞的夏天'
 author: March
 language: zh-CN
 timezone: ''
@@ -102,3 +101,36 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+menu:
+  首頁: / || fas fa-home
+  時間軸: /archives/ || fas fa-archive
+  標籤: /tags/ || fas fa-tags
+  分類: /categories/ || fas fa-folder-open
+  清單||fa fa-heartbeat:
+    音樂: /music/ || fas fa-music
+    照片: /Gallery/ || fas fa-images
+    電影: /movies/ || fas fa-video
+  友鏈: /link/ || fas fa-link
+  關於: /about/ || fas fa-heart
+
+# A simple 404 page
+error_404:
+  enable: true
+  subtitle: "頁面沒有找到"
+  background: 
+
+highlight_theme: mac
+
+highlight_shrink: none #代碼框不展開，需要點擊展開
+
+social:
+  fab fa-github: https://github.com/xxxxx || Github || "#hdhfbb"
+  fas fa-envelope: 1162030037@qq.com || Email || "#4A7DBE"
+
+avatar:
+  img: https://github.com/MarchPhantasia/pic/blob/main/hexoblog/psc.jpeg
+  effect: true # 頭像會一直轉圈
+
+
+index_img: https://github.com/MarchPhantasia/pic/blob/main/hexoblog/d5990a4a281493912b46b65ec05bcef538b8f3e13d9f27-1of2ZU.jpeg
