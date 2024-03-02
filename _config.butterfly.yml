@@ -4,8 +4,8 @@
 
 # Site
 title: Phantasia's Blog
-subtitle: 'March'
-description: '归咎于寂寞的夏天'
+subtitle: 归咎于寂寞的夏天
+description: 归咎于寂寞的夏天
 author: March
 language: zh-CN
 timezone: ''
@@ -129,8 +129,8 @@ social:
   fas fa-envelope: 1162030037@qq.com || Email || "#4A7DBE"
 
 avatar:
-  img: https://github.com/MarchPhantasia/pic/blob/main/hexoblog/psc.jpeg
-  effect: true # 頭像會一直轉圈
+  img: https://raw.githubusercontent.com/MarchPhantasia/pic/main/hexoblog/psc.jpeg
+  effect: false # 頭像會一直轉圈
 
 
-index_img: https://github.com/MarchPhantasia/pic/blob/main/hexoblog/d5990a4a281493912b46b65ec05bcef538b8f3e13d9f27-1of2ZU.jpeg
+index_img: https://raw.githubusercontent.com/MarchPhantasia/pic/main/hexoblog/d5990a4a281493912b46b65ec05bcef538b8f3e13d9f27-1of2ZU.jpeg
