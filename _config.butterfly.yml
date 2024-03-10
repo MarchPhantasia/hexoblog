@@ -4,8 +4,8 @@
 
 # Site
 title: Phantasia's Blog
-subtitle: 归咎于寂寞的夏天
-description: 归咎于寂寞的夏天
+subtitle: '归咎于寂寞的夏天'
+description: '归咎于寂寞的夏天'
 author: March
 language: zh-CN
 timezone: ''
@@ -134,3 +134,5 @@ avatar:
 
 
 index_img: https://raw.githubusercontent.com/MarchPhantasia/pic/main/hexoblog/d5990a4a281493912b46b65ec05bcef538b8f3e13d9f27-1of2ZU.jpeg
+
+background: url(https://raw.githubusercontent.com/MarchPhantasia/pic/main/hexoblog/v2-8981ee5ce31b8269189ac11f4b8b647e_r.jpg)
